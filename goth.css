@@ -1,0 +1,50 @@
+.container{
+    background-image:url("g2.jpg");
+     border-radius: 25px;
+     text-align: center; align: center; vertical-align: middle;
+     font-size: 50px;
+     height: 75px; width: 70%; 
+     margin-left: auto;
+     margin-right: auto;
+     position: inherit; 
+     color: whitesmoke;
+     font-family: 'Shippori Mincho', serif;
+ }
+ hr {
+     color: rgb(153, 152, 152) ;
+     background-color:rgb(153, 152, 152);
+     height: 1.5px; 
+     width:70%;
+ }
+ .text1 {
+  background-color: rgb(65, 60, 117);
+  color: whitesmoke;
+  height: 300px; width: 300px;
+  text-align: center; vertical-align: middle;
+  font-family: 'Shippori Mincho', serif;
+ padding:10px;
+ }
+ .img1 {
+     margin-left: 350px;
+     align:center;
+ }
+ body {
+     background-image: url(backg.jpg);
+ }
+ .text2 {
+     background-color: rgb(72, 50, 82);
+     color: whitesmoke;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Shippori Mincho', serif;
+    padding:10px;
+    margin-left: 300px;
+ }
+ .text3 {
+     background-color: rgb(63, 39, 39);
+     color: whitesmoke;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Shippori Mincho', serif;
+    padding:10px;
+    }

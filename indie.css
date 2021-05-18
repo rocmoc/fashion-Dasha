@@ -1,0 +1,51 @@
+.container{
+    background-image:url("i4.jpg");
+     border-radius: 25px;
+     text-align: center; align: center; vertical-align: middle;
+     font-size: 50px;
+     font-family: 'Quicksand', sans-serif;
+     height: 75px; width: 70%; 
+     margin-left: auto;
+     margin-right: auto;
+     position: inherit; 
+     color: whitesmoke;
+     font-family: 'Akaya Kanadaka', cursive;
+ }
+ hr {
+     color: rgb(85, 56, 247) ;
+     background-color:rgb(85, 56, 247);
+     height: 1.5px; 
+     width:70%;
+ }
+ .text1 {
+  background-color: rgb(255, 251, 14);
+  color: black;
+  height: 300px; width: 300px;
+  text-align: center; vertical-align: middle;
+  font-family: 'Akaya Kanadaka', cursive;
+ padding:10px;
+ }
+ .img1 {
+     margin-left: 350px;
+     align:center;
+ }
+ body {
+     background-image: url(backi.jpg);
+ }
+ .text2 {
+     background-color: rgb(77, 231, 103);
+     color: black;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Akaya Kanadaka', cursive;
+    padding:10px;
+    margin-left: 300px;
+ }
+ .text3 {
+     background-color: rgb(243, 70, 70);
+     color: black;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Akaya Kanadaka', cursive;
+    padding:10px;
+    }

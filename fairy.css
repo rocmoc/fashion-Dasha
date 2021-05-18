@@ -1,0 +1,51 @@
+.container{
+   background-image:url("f31.jpg");
+    border-radius: 25px;
+    text-align: center; align: center; vertical-align: middle;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+    height: 75px; width: 70%; 
+    margin-left: auto;
+    margin-right: auto;
+    position: inherit; 
+    color: whitesmoke;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+hr {
+    color: rgb(245, 208, 208) ;
+    background-color:rgb(245, 208, 208);
+    height: 1.5px; 
+    width:70%;
+}
+.text1 {
+ background-color: rgb(252, 242, 224);
+ color: black;
+ height: 300px; width: 300px;
+ text-align: center; vertical-align: middle;
+ font-family: 'Akaya Kanadaka', cursive;
+padding:10px;
+}
+.img1 {
+    margin-left: 350px;
+    align:center;
+}
+body {
+    background-image: url(backf.jpg);
+}
+.text2 {
+    background-color: rgb(232, 252, 224);
+    color: black;
+    height: 300px; width: 300px;
+    text-align: center; vertical-align: middle;
+    font-family: 'Akaya Kanadaka', cursive;
+   padding:10px;
+   margin-left: 300px;
+}
+.text3 {
+    background-color: rgb(224, 228, 252);
+    color: black;
+    height: 300px; width: 300px;
+    text-align: center; vertical-align: middle;
+    font-family: 'Akaya Kanadaka', cursive;
+   padding:10px;
+   }

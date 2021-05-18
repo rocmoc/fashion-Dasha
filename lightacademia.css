@@ -1,0 +1,51 @@
+.container{
+    background-image:url("la6.jpg");
+     border-radius: 25px;
+     text-align: center; align: center; vertical-align: middle;
+     font-size: 50px;
+     font-family: 'Quicksand', sans-serif;
+     height: 75px; width: 70%; 
+     margin-left: auto;
+     margin-right: auto;
+     position: inherit; 
+     color: whitesmoke;
+     font-family: 'Shippori Mincho B1', serif;
+ }
+ hr {
+     color: rgb(151, 114, 93) ;
+     background-color:rgb(151, 114, 93);
+     height: 1.5px; 
+     width:70%;
+ }
+ .text1 {
+  background-color: rgb(96, 110, 74);
+  color: black;
+  height: 300px; width: 300px;
+  text-align: center; vertical-align: middle;
+  font-family: 'Shippori Mincho B1', serif;
+ padding:10px;
+ }
+ .img1 {
+     margin-left: 350px;
+     align:center;
+ }
+ body {
+     background-image: url(backla.jpg);
+ }
+ .text2 {
+     background-color: rgb(139, 92, 70);
+     color: black;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Shippori Mincho B1', serif;
+    padding:10px;
+    margin-left: 300px;
+ }
+ .text3 {
+     background-color: rgb(104, 95, 67);
+     color: black;
+     height: 300px; width: 300px;
+     text-align: center; vertical-align: middle;
+     font-family: 'Shippori Mincho B1', serif;
+    padding:10px;
+    }
